@@ -5,6 +5,6 @@ You don't need to perform any rounding or formatting operations. '''
 if __name__ == '__main__':
     a = int(input())
     b = int(input())
-    print (a//b)
+    print (a/b)
     print(a//b)
 
