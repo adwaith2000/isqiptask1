@@ -1,0 +1,54 @@
+body{
+    background-image: url("./images/Barrett_teaching_writing_pic.jpg");
+    background-size: 220%;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding-bottom: 0%;
+    }
+#clicker:hover{
+    font-size: 150%;
+    background-color: aqua;
+
+}
+
+h1{background-color: aliceblue;
+     background-blend-mode: color-dodge; 
+    text-decoration-color: azure;
+    border:  5pt greenyellow groove;
+
+}
+#intro{
+    padding: 10pt;
+    text-align: center;
+    background-color: burlywood;   
+    border: 5pt sandybrown groove;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: snow;
+    font-style: oblique;
+    font-size: 30px;
+}
+#apple{
+    display: flex;
+    flex-direction: row;
+}
+#pic{
+    display: flex;
+    justify-content: left;
+    position: relative;
+    bottom: 300px;
+    
+}
+#about{
+border-radius: 100%;
+border: red;
+background-color: white;
+font-size: 160%;
+}
+#questions{
+    font-size: 180%;
+}
+.bla{
+    background-image: linear-gradient();
+    
+
+}
