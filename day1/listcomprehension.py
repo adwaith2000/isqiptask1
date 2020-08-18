@@ -1,7 +1,7 @@
 '''Let's learn about list comprehensions! You are given three integers x,y and z 
 representing the dimensions of a cuboid along with an intege nr . You have to
- print a list of all possible coordinates given by (i,j,k) on a 3D grid where
- the sum of i+j+k is not equal to n. Here, i<=x,j<=y,k<=z'''
+ print a list of all possible coordinates given by (i,j,k) on a  3D grid where
+ the sum of i+j+k is not equal to n. Here, i<=x,j<=y,k<=z '''
 
 
 
